@@ -12,4 +12,4 @@ on contract with US teams.
 
 **Stack:** Python, TypeScript, Go · FastAPI, Next.js, PostgreSQL · Playwright, LLM agents, RAG · AWS, GCP
 
-[LinkedIn](https://www.linkedin.com/in/manasrathii/) · manas.rathi@convergexai.com
+[LinkedIn](https://www.linkedin.com/in/manasrathii/) · manas.rathi2@gmail.com
